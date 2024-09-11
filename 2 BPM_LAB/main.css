@@ -1,0 +1,84 @@
+body {
+    background: #2F4454;
+}
+
+h2 {
+    float:center;
+}
+
+.features {
+    float: center;
+    color: #fff;
+    margin-top: 15px;
+    text-align: center;
+    width:80%;
+}
+
+.alert-warning {
+    float:center;
+    clear: both;
+    width: 650px;
+    margin: 20px 34%;
+    text-align: left;
+}
+
+.alert-info {
+    float:center;
+    clear: both;
+    width: 650px;
+    margin: 20px 34%;
+    text-align: center;
+}
+
+
+.btn-primary {
+    float:center;
+    margin-right: 8px;
+    margin-top: 10px;
+    transition: 0.5s;
+    cursor:pointer;
+}
+
+.btn-primary:hover {
+    transform: scale(1.1) translateX(8px);
+}
+
+.active {
+    background-color: #16aefa;
+    border: none;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-right: 8px;
+    border-radius: 10px;
+}
+
+.button1 {
+    background-color: #16d2fa;
+    border: none;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-right: 8px;
+    border-radius: 10px;
+}
+
+.comment1 {
+    border-width: 5px;
+    background-color: #b6effb;
+    border-style: solid;
+    border-color: #9de4f2;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    border-radius: 10px;
+}
+
+.post_number {
+    font-size: 12px;
+}
